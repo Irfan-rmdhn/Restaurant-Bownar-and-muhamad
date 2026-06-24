@@ -1,0 +1,23 @@
+:root{
+    --Primary-Orange-CTA-accent-logo :#E8820C;
+    --Amber : #F5B942;
+    --light-orange :#FEF3E2;
+    --star :#F5A623;
+    --dark-navy:#1A1A2E;
+    --white :#FFFFFF;
+    --warm-creame : #F5F0E8;
+    --dark-grey :#333333;
+    --mid-gray :#777777;
+}
+*{
+    margin: 0;
+}
+body{
+
+}
+ol{
+    list-style: none;
+}
+.Navbar{
+    background-color: var(--Primary-Orange-CTA-accent-logo);
+}
